@@ -1,4 +1,4 @@
-(contact me if you need futher details regarding the project as the details of this project are not made public)
+(contact me if you need futher details regarding the project as the details of this project cannot be made public)
 
 # RideShare: Cloud Computing Ridesharing Application
 
